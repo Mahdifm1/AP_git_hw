@@ -1,6 +1,0 @@
-TODO list:
-----------------
-[X] Git workshop
-[X] CMS project
-[X] Study signals
-[ ] Study algorithm
